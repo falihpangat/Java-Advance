@@ -1,0 +1,7 @@
+127.0.0.1 - - [03/Feb/2021:11:50:23 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:50:30 +0530] "GET /loginapphttpse/ HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:50:34 +0530] "GET /loginapphttpse/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:50:45 +0530] "POST /loginapphttpse/LoginServlet HTTP/1.1" 200 268
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:50:47 +0530] "GET /loginapphttpse/ProfileServlet HTTP/1.1" 200 285
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:50:49 +0530] "GET /loginapphttpse/LogoutServlet HTTP/1.1" 200 286
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:50:50 +0530] "GET /loginapphttpse/ProfileServlet HTTP/1.1" 200 580

@@ -1,0 +1,17 @@
+127.0.0.1 - - [15/Jan/2021:21:57:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:21:57:21 +0530] "GET /loginappcookie/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Jan/2021:22:02:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:02:25 +0530] "GET /loginappcookie/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:02:27 +0530] "GET /loginappcookie/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:02:36 +0530] "POST /loginappcookie/LoginServlet HTTP/1.1" 200 277
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:02:40 +0530] "GET /loginappcookie/ProfileServlet HTTP/1.1" 200 271
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:03:46 +0530] "GET /loginappcookie/ProfileServlet HTTP/1.1" 200 271
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:03:48 +0530] "GET /loginappcookie/LogoutServlet HTTP/1.1" 200 260
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:03:51 +0530] "GET /loginappcookie/ProfileServlet HTTP/1.1" 200 543
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:03:52 +0530] "GET /loginappcookie/ProfileServlet HTTP/1.1" 200 543
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:03:53 +0530] "GET /loginappcookie/ProfileServlet HTTP/1.1" 200 543
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:03:53 +0530] "GET /loginappcookie/ProfileServlet HTTP/1.1" 200 543
+127.0.0.1 - - [15/Jan/2021:22:26:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:26:14 +0530] "GET /urlwriting.session/index.html HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:26:21 +0530] "POST /urlwriting.session/FirstServlet HTTP/1.1" 200 62
+0:0:0:0:0:0:0:1 - - [15/Jan/2021:22:26:23 +0530] "GET /urlwriting.session/SecondServlet?uname=Falih HTTP/1.1" 200 11
