@@ -153,7 +153,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="/home/falih/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/home/falih/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/urlwritingLogin" path="/urlwritingLogin" reloadable="true" source="org.eclipse.jst.jee.server:urlwritingLogin"/><Context docBase="/home/falih/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/loginapphttpse" path="/loginapphttpse" reloadable="true" source="org.eclipse.jst.jee.server:loginapphttpse"/></Host>
+      <Context docBase="/home/falih/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/home/falih/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/CRUD" path="/CRUD" reloadable="true" source="org.eclipse.jst.jee.server:CRUD"/><Context docBase="/home/falih/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/Crudservlet" path="/Crudservlet" reloadable="true" source="org.eclipse.jst.jee.server:Crudservlet"/></Host>
     </Engine>
   </Service>
 </Server>
